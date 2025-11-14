@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @R3AL-Rufa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hey, I’m Rufa
 
-<!---
-R3AL-Rufa/R3AL-Rufa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Analysis + Blockchain Analytics.
+
+🌱 What I’m learning
+
+SQL
+Python for data analysis
+Blockchain analytics tools
+Web3 community systems
+
+💼 Experience
+
+Huma Finance
+Pomerium (P2E)
+Convergence RFQ
+GenomeFi
+
+🧩 What I’m exploring
+PayFi and real-world crypto use cases
+Data-driven storytelling in Web3
+Simplifying complex DeFi concepts for communities
+
+📫 Reach me
+Twitter: @0xRufa
